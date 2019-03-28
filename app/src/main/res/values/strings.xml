@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="hello">hello</string>
+    <string name="follow">follow</string>
+    <string name="action_hide">action_hide</string>
+    <string name="action_anchor_enable">action_anchor_enable</string>
+    <string name="action_show">action_show</string>
+    <string name="action_anchor_disable">action_anchor_disable</string>
+</resources>
